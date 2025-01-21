@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the data retrieved from the database is not in the expected format. For example, if you expect a string but receive a number, the app may crash or display unexpected behavior.  This can be difficult to debug because the error messages from Firebase might not always be clear about the data type mismatch.
